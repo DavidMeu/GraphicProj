@@ -6,7 +6,7 @@ import Primitives.Point3D;
 import Renderer.ImageWriter;
 import Renderer.Render;
 import Scenes.Scene;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 
 public class RenderTest {

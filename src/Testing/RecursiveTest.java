@@ -8,7 +8,7 @@ import Primitives.Vector;
 import Renderer.ImageWriter;
 import Renderer.Render;
 import Scenes.Scene;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 import java.awt.*;
 

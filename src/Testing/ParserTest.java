@@ -1,6 +1,6 @@
 package Testing;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import Parser.SceneDescriptor;
 
 import java.io.File;
